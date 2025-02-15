@@ -52,7 +52,5 @@ The current screenshots are located in the `screenshots` folder:
 
 VinuOS is a community project – contributions, ideas, and improvements are welcome!
 
-## License
 
-No information about the license available.
 
