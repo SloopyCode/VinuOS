@@ -1,7 +1,7 @@
 NASM      = nasm
 QEMU      = qemu-system-x86_64
 IMG_DIR   = build
-IMG       = $(IMG_DIR)/disk.img
+IMG       = $(IMG_DIR)/Disk.img
 GCC       = i686-elf-gcc
 LD        = i686-elf-ld
 OBJCOPY   = i686-elf-objcopy
