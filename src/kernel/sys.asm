@@ -67,5 +67,5 @@ clear_screen:
 ; -----------------------------
 msg_disabled      db " [ Interrupts disabled ]", 13, 10, 0
 msg_datasegment   db " [ Data Segment = 0x1000 ]", 13, 10, 0
-msg_kernelreached db " [ start at 0x0000 ]", 13, 10, 0
+msg_kernelreached db " [ kernel reached ]", 13, 10, 0
 msg_osstart       db " Starting VinuOS", 13, 10, 0
